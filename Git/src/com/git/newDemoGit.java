@@ -1,7 +1,7 @@
 package com.git;
 
 public class newDemoGit {
-      public void m1()
+      public void m2()
       {
 	      System.out.println("m1");
       }
