@@ -13,7 +13,7 @@ public class newDemoGit {
 	
 	public void m4()
 	{
-		System.out.println("hello mak");
+		System.out.println("hello makarand");
 	}
 	public static void main(String[] args) {
 		System.out.println("Demo Git");
